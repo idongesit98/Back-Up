@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Titans_Free-Lunch</string>
+    <string name="screen_name">Redeem Launch</string>
+    <string name="close">close</string>
+    <string name="lunch">Lunch Received</string>
+    <string name="bread">bread</string>
+    <string name="medal">Medal</string>
+    <string name="withdraw">Withdraw</string>
+
+</resources>
